@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikesh Borkar</h1>
 <h3 align="center">A passionate Full Stack Developer </h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+
 <p align="center">
   <a href="https://github.com/NikeshBorkar/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Anjali; I am a Full-stack%20web%20developer 👨🏻‍💻; Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
@@ -11,13 +11,10 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=NikeshBorkar&icon=0&color=0)](https://visitcount.itsvg.in)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NikeshBorkar&label=Profile%20views&color=0e75b6&style=flat" alt="NikeshBorkar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nikeshborkar8" target="blank"><img src="https://img.shields.io/twitter/follow/nikeshborkar8?logo=twitter&style=for-the-badge" alt="NikeshBorkar" /></a> </p>
 
-- 🔭 I’m currently pursuing Full Stack Web Development
-
-- 🌱 I’m currently learning *React.js*
+- 🔭 I’m currently looking for a job in Full Stack Web Development 
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1la0t1sSizP1QBgO7VIRsnNC0IN3p9ncR/view?usp=sharing)
 
